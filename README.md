@@ -6,4 +6,4 @@ This is a simple application which can be used to download Youtube videos. The u
 
 
 
-** Please do not use the application for mass download/commercial use.
+** Please do not use the application for bulk download/commercial use.
